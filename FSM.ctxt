@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FSM
+comment0.text=\r\nStrings\ containing\ an\ even\ number\ of\ one\r\n0\ 1\r\n----------------\r\nA*\ A\ B\r\nB\ B\ A\r\n----------------\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

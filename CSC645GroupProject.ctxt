@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CSC645GroupProject
+comment1.params=data\ frequency
+comment1.target=HuffmanNode(char,\ int)
+comment2.params=frequency\ left\ right
+comment2.target=HuffmanNode(int,\ HuffmanNode,\ HuffmanNode)
+comment3.params=other
+comment3.target=int\ compareTo(HuffmanNode)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=inputFilePath\ outputFilePath
+comment5.target=void\ compressFile(java.lang.String,\ java.lang.String)
+comment6.params=node\ code\ huffmanCodes
+comment6.target=void\ generateCodes(HuffmanNode,\ java.lang.String,\ java.util.Map)
+numComments=7
