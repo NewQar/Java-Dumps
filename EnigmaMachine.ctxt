@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EnigmaMachine
+comment1.params=rotors\ reflector
+comment1.target=EnigmaMachine(java.util.List,\ java.lang.String)
+comment2.params=input
+comment2.target=char\ encrypt(char)
+comment3.params=message
+comment3.target=java.lang.String\ encryptMessage(java.lang.String)
+comment4.params=input
+comment4.target=char\ decrypt(char)
+comment5.params=message
+comment5.target=java.lang.String\ decryptMessage(java.lang.String)
+comment6.params=
+comment6.target=void\ advanceRotors()
+numComments=7
