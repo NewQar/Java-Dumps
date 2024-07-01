@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SortAndSearchProgram
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fileName
+comment2.target=int[]\ readItemsFromFile(java.lang.String)
+comment3.params=arr
+comment3.target=void\ selectionSort(int[])
+comment4.params=arr
+comment4.target=void\ mergeSort(int[])
+comment5.params=arr\ left\ right
+comment5.target=void\ merge(int[],\ int[],\ int[])
+comment6.params=arr
+comment6.target=void\ displaySortIterations(int[])
+comment7.params=arr\ searchItem
+comment7.target=int\ sequentialSearch(int[],\ int)
+comment8.params=arr\ searchItem
+comment8.target=int\ binarySearch(int[],\ int)
+numComments=9

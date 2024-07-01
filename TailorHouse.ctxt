@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TailorHouse
+comment1.params=custNo\ custName\ date\ cust_type
+comment1.target=TailorHouse(java.lang.String,\ java.lang.String,\ java.lang.String,\ char)
+comment2.params=
+comment2.target=double\ calCharges()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=OneTimePadCipher
+comment1.params=
+comment1.target=OneTimePadCipher()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=length
+comment4.target=java.lang.String\ generateKey(int)
+comment5.params=plaintext\ key
+comment5.target=java.lang.String\ encrypt(java.lang.String,\ java.lang.String)
+comment6.params=ciphertext\ key
+comment6.target=java.lang.String\ decrypt(java.lang.String,\ java.lang.String)
+comment7.params=array\ ch
+comment7.target=int\ indexOf(char[],\ char)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment9.params=
+comment9.target=void\ run()
+numComments=10

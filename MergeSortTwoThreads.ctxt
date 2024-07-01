@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MergeSortTwoThreads
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array\ threadCount
+comment2.target=void\ mergeSortParallel(int[],\ int)
+comment3.params=size
+comment3.target=int[]\ generateRandomData(int)
+comment4.params=array\ left\ right
+comment4.target=void\ mergeSort(int[],\ int,\ int)
+comment5.params=array\ left\ middle\ right
+comment5.target=void\ merge(int[],\ int,\ int,\ int)
+numComments=6
